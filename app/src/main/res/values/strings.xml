@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Letras</string>
+    <string name="introducir_texto">Introduzca un texto:</string>
+    <string name="introducir_texto_hint">Texto a convertir</string>
+    <string name="boton_mayusculas">Convertir a Mayúsculas</string>
+    <string name="boton_minusculas">Convertir a Minúsculas</string>
+    <string name="error_vacio">Introduzca un texto antes de continuar</string>
+    <string name="toast_mayusculas">Texto convertido a mayúsculas</string>
+    <string name="toast_minusculas">Texto convertido a minúsculas</string>
+</resources>
